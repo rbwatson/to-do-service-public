@@ -62,7 +62,7 @@ Here's an example response with all the tasks associated with user id = 1:
 ## Troubleshooting tips
 
 - [Error handling](/api/handling-errors)
-- [Properties cheat sheet for successful requests](/api/cs-for-successful-requests)
+- [Properties cheat sheet for successful requests](../api/cs-for-successful-requests.md)
 
 
 ## Next steps
